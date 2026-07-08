@@ -3,7 +3,7 @@
  (url "https://github.com/jack-faller/guix-discord")
  (dependencies
   (channel
-   (name 'nonguix)
+   (name nonguix)
    (url "https://gitlab.com/nonguix/nonguix")
    (introduction
     (channel-introduction

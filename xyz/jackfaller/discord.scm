@@ -33,10 +33,10 @@
 ;; begin generated content
 (define discord-version "1.0.146")
 (define discord-hash "1nj8ag23bsa2rfn50d233qn46lx0v9shgph7has423lclv839rqc")
-(define discord-uri "https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/full.distro")
+(define discord-uri "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/full.distro")
 (define stub-uri "https://cdn.discordapp.com/apps/linux/1.0.146/discord-1.0.146.tar.gz")
 (define stub-hash "0477rw8h4wi6xgjwgdf574kz5mp0mjq5y0q4yzfn5ankzxc0cvfr")
-(define module-uris '("https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_desktop_core/1/full.distro" "https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_erlpack/1/full.distro" "https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_spellcheck/1/full.distro" "https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_utils/1/full.distro" "https://dl.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_voice/1/full.distro"))
+(define module-uris '("https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_desktop_core/1/full.distro" "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_erlpack/1/full.distro" "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_spellcheck/1/full.distro" "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_utils/1/full.distro" "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.146/discord_voice/1/full.distro"))
 (define module-hashes '("0klclvd750flb67y3z1ij743zhickvjp4gpp5kd7mm413x1ylgwg" "04wklzlnlzj1zlphcscwyjclcfx4bs0l8sz6cxav68zij7a5haw1" "07kn66nzlw04qr8i8qw8rshh9sl9877xcym4wmifc1f9r666lr0r" "0dzpfq0ll1x6g0s1a5l4hn80cdhw33kq5isdvgp6rb0wkjmfv5q0" "1mzigkjx5fpr4d6ilxxp5qj9ly4fr5sfnrwx3w51d6vsfikd08an"))
 (define module-names '("discord_desktop_core" "discord_erlpack" "discord_spellcheck" "discord_utils" "discord_voice"))
 ;; end generated content

@@ -1,4 +1,4 @@
-(define-module (packages discord)
+(define-module (xyz jackfaller discord)
   #:use-module (gnu packages base)
   #:use-module (gnu packages bash)
   #:use-module (gnu packages compression)
